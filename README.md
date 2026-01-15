@@ -26,6 +26,10 @@ The objective is to understand churn behavior and identify key drivers of custom
 - Month-to-month contracts have the highest churn
 - Fiber optic users churn more compared to DSL
 - Long-term contracts reduce churn significantly
+- ## 📷 Dashboard Preview
+
+![Power BI Dashboard](dashboard_overview.png)
+
 
 ## 👩‍💻 Author
 **Deeksha M D**
